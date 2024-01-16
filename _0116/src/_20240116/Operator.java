@@ -1,6 +1,5 @@
 package _20240116;
 
-import java.sql.SQLOutput;
 
 //연산자
 public class Operator {
