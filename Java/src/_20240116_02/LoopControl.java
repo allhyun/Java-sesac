@@ -1,4 +1,4 @@
-package _02_20240116;
+package _20240116_02;
 
 public class LoopControl {
     public static void main(String[] args) {

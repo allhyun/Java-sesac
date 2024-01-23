@@ -1,4 +1,4 @@
-package _02_20240116;
+package _20240116_02;
 
 import java.util.Scanner;
 
