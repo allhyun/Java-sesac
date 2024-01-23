@@ -36,4 +36,14 @@ public class Student extends Person {
         this.campus = campus;
         System.out.println(campus + "캠퍼스에서 공부중");
     }
+
+    // 오버라이딩 - 부모클래스의 메소드를 자식 클래스에서 재정의
+    // 메소드 이름 매개변수 타입 및 개수, 리턴 타입 등 모든 것 동일하게
+
+    @Override// 어노테이션(생략가능)
+    public void say(){
+        System.out.println("ㅎㅇ");
+    }
+
+
 }
